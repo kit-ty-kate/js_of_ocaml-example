@@ -1,4 +1,4 @@
-all:
+all: jbuilder
 
 jbuilder:
 	jbuilder build test.bc.js
